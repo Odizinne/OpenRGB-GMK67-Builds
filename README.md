@@ -6,7 +6,7 @@ There will be no updates.
 
 | System | Arch | Link |
 | --- | --- | --- |
-| Windows | x64 | [Download]() |
-| Debian | x64 | [Download]() |
-| Fedora | x64 | [Download]() |
-| Appimage | x64 | [Download]() |
+| Windows | x64 | [Download](https://github.com/Odizinne/OpenRGB-GMK67-Builds/raw/main/Builds/OpenRGB_Windows_64_f19116d1.zip) |
+| Debian | x64 | [Download](https://github.com/Odizinne/OpenRGB-GMK67-Builds/raw/main/Builds/OpenRGB_Linux_64_deb_f19116d1.zip) |
+| Fedora | x64 | [Download](https://github.com/Odizinne/OpenRGB-GMK67-Builds/raw/main/Builds/OpenRGB_Linux_64_rpm_f19116d1.zip) |
+| Appimage | x64 | [Download](https://github.com/Odizinne/OpenRGB-GMK67-Builds/raw/main/Builds/OpenRGB_Linux_64_f19116d1.zip) |
