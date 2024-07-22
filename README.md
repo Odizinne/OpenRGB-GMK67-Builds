@@ -1,6 +1,7 @@
 # OpenRGB-GMK67-Builds
 Old OpenRGB Builds with GMK67 support
 
+This is just a repository to store builds. Source code is available [here](https://gitlab.com/aethernali.live/OpenRGB/-/tree/gmk67?ref_type=heads)
 I do not maintain these anymore.  
 There will be no updates.
 
